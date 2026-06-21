@@ -1,0 +1,6 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BSCpE,1,Mathematics,GEED 001,Major,3,90
+U,BSCpE,1,Science,GEED 007,Minor,3,90
+U,BSCpE,1,Values,GEED 002,Minor,3,80
+U,BSCpE,1,Programming,CMPE 102,Major,6,95
+U,BSCpE,1,Physical Education,PATHFIT 101,Minor,3,90

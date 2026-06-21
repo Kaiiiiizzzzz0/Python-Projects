@@ -1,0 +1,6 @@
+Name: Kaizen Magdaraog
+College: Engineering
+Department: Computer Engineering
+Level: Undergraduate
+Degree: BSc
+Terms: 6
