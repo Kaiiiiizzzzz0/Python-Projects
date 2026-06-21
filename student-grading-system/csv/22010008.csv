@@ -1,0 +1,11 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BABr,1,Mathematics,GEED 001,Minor,3,88
+U,BABr,1,Science,GEED 007,Minor,3,76
+U,BABr,1,Values,GEED 002,Minor,3,80
+U,BABr,1,Media Laws,MEL 104,Major,6,96
+U,BABr,1,Communication Theory,COMM 108,Major,6,97
+U,BABr,2,English,ENG 101,Minor,3,90
+U,BABr,2,Filipino,ENG 102,Minor,3,98
+U,BABr,2,Public Relations,ABD 103,Major,6,89
+U,BABr,2,Presentation Skills,ABD 104,Major,6,84
+U,BABr,2,Aural Language,ABD 105,Major,6,82

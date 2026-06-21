@@ -1,0 +1,11 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BLIS,1,English,GEED 005,Minor,3,83
+U,BLIS,1,Mathematics,GEED 001,Minor,3,87
+U,BLIS,1,Library Management,BLI 112,Major,3,94
+U,BLIS,1,Indexing,BLI 113,Major,6,95
+U,BLIS,1,Information Technology,BLI 114,Major,6,92
+U,BLIS,2,Filipino,FIL 101,Minor,3,94
+U,BLIS,2,Physical Education,PATHFIT 101,Minor,3,91
+U,BLIS,2,Statistics,MATH 102,Minor,3,96
+U,BLIS,2,Organization,BLI 115,Major,6,98
+U,BLIS,2,Research Methods,BLI 116,Major,6,95

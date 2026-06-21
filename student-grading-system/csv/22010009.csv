@@ -1,0 +1,9 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+G,DBA,1,Business Ethics,BA 104,Major,6,98
+G,DBA,1,Human Resources,BA 105,Minor,3,80
+G,DBA,1,Marketing,BMA 101,Minor,3,87
+G,DBA,1,Research,ABD 102,Major,6,80
+G,DBA,2,Information Technology,BA 106,Major,6,87
+G,DBA,2,Corporate Finances,BMA 103,Major,3,90
+G,DBA,2,Leadership,ABD 104,Minor,3,91
+G,DBA,2,Dissertation Writing,ABD 103,Minor,3,90

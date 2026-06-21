@@ -1,0 +1,11 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BSA,1,Mathematics,GEED 001,Minor,3,80
+U,BSA,1,Auditing,ACCO 105,Major,6,89
+U,BSA,1,Business Law,ACCO 104,Major,3,97
+U,BSA,1,Management Accounting,ACCO 106,Major,6,85
+U,BSA,1,Economics,ECON 103,Minor,3,78
+U,BSA,2,English Literature,ENG 103,Minor,3,96
+U,BSA,2,Filipino,FIL 101,Minor,3,79
+U,BSA,2,Physical Education,PATHFIT 101,Minor,3,90
+U,BSA,2,Macroeconomics,ACCO 111,Major,5,78
+U,BSA,2,Taxation Theory,ACCO 112,Major,5,86

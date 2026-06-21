@@ -1,0 +1,16 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BSCpE,1,Mathematics,GEED 001,Major,3,85
+U,BSCpE,1,Science,GEED 007,Minor,3,95
+U,BSCpE,1,Values,GEED 002,Minor,3,87
+U,BSCpE,1,Programming,CMPE 102,Major,6,95
+U,BSCpE,1,Physical Education,PATHFIT 101,Minor,3,92
+U,BSCpE,2,Filipino,FIL 101,Minor,3,90
+U,BSCpE,2,Statistics,MATH 102,Minor,3,95
+U,BSCpE,2,Communications,ENG 101,Minor,3,89
+U,BSCpE,2,Logic Design,COMP 110,Major,6,85
+U,BSCpE,2,Cybersecurity,COMP 112,Major,6,96
+U,BSCpE,3,Economics,ECON 101,Minor,3,89
+U,BSCpE,3,Calculus,CALC 101,Minor,4,87
+U,BSCpE,3,Chemistry,CHEM 105,Minor,4,94
+U,BSCpE,3,Embedded Systems,COMP 113,Major,6,95
+U,BSCpE,3,Microprocessors,COMP 114,Major,6,90

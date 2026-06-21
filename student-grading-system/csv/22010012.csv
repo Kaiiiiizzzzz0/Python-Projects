@@ -1,0 +1,9 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BSTM,1,Mathematics,GEED 001,Major,3,8
+U,BSTM,1,Science,GEED 007,Minor,3,79
+U,BSTM,1,Values,GEED 002,Minor,3,85
+U,BSTM,1,Foreign Language,ATH 106,Major,6,97
+U,BSTM,2,Tourism Law,ATH 107,Major,6,94
+U,BSTM,2,Transportation Management,ATH 102,Major,6,89
+U,BSTM,2,Professional Development,ATH 110,Minor,3,90
+U,BSTM,2,Multicultural Diversity,ATH 111,Minor,3,82

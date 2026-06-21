@@ -1,0 +1,16 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BAJ,1,Media Literacy,AJO 107,Major,3,98
+U,BAJ,1,Communication Science,AJO 108,Minor,3,87
+U,BAJ,1,Values,GEED 002,Minor,3,91
+U,BAJ,1,Media Laws,MEL 104,Major,6,92
+U,BAJ,1,Communication Theory,COMM 108,Major,6,78
+U,BAJ,2,English,ENG 101,Minor,3,89
+U,BAJ,2,Filipino,FIL 101,Minor,3,80
+U,BAJ,2,Physical Education,PATHFIT 101,Minor,3,91
+U,BAJ,2,Research,AJO 110,Major,6,94
+U,BAJ,2,Public Relations,AJO 109,Major,6,87
+U,BAJ,3,Mathematics,GEED 001,Minor,3,89
+U,BAJ,3,Statistics,MATH 102,Minor,3,79
+U,BAJ,3,Journalism Ethics,AJO 120,Major,6,90
+U,BAJ,3,Photojournalism,AJO 121,Major,6,86
+U,BAJ,3,News Writing,AJO 123,Major,6,87

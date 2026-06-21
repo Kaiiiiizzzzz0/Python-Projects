@@ -1,0 +1,11 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,ABPsych,1,Mathematics,GEED 001,Major,3,98
+U,ABPsych,1,Science,GEED 007,Minor,3,90
+U,ABPsych,1,Values,GEED 002,Minor,3,80
+U,ABPsych,1,Psychology,PSYCH 106,Major,6,79
+U,ABPsych,1,Physical Education,PATHFIT 101,Minor,3,86
+U,ABPsych,2,Statistics,MATH 102,Minor,3,84
+U,ABPsych,2,Filipino,FIL 101,Minor,3,90
+U,ABPsych,2,Social Psychology,PSYCH 107,Major,6,87
+U,ABPsych,2,Research,PSYCH 110,Major,6,97
+U,ABPsych,2,Counselling,PSYCH 105,Major,6,89

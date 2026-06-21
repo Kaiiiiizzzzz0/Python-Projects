@@ -1,0 +1,11 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+U,BEEd,1,Mathematics,GEED 001,Major,3,89
+U,BEEd,1,Science,GEED 007,Minor,3,90
+U,BEEd,1,Values,GEED 002,Minor,3,87
+U,BEEd,1,Teaching Music,EED 108,Major,6,80
+U,BEEd,1,Physical Education,PATHFIT 101,Minor,3,78
+U,BEEd,2,English,ENG 101,Minor,3,89
+U,BEEd,2,Filipino,FIL 101,Minor,3,86
+U,BEEd,2,Elementary Education,EED 110,Major,6,75
+U,BEEd,2,Teaching Math,EED 106,Major,6,90
+U,BEEd,2,Teaching Science,EED 107,Major,6,95

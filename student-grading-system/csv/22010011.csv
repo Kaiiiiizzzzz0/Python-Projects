@@ -1,0 +1,16 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+G,MSMath,1,Applied Mathematics,MME 112,Major,3,97
+G,MSMath,1,Statistics,MME 113,Major,3,98
+G,MSMath,1,Analysis,MME 114,Minor,3,95
+G,MSMath,1,Algebra,MME 115,Major,6,94
+G,MSMath,1,Combinatronics,MME 116,Major,3,92
+G,MSMath,2,Number Theory,MME 117,Minor,4,99
+G,MSMath,2,Graph Theory,MME 118,Minor,4,98
+G,MSMath,2,Differential Geometry,MME 119,Major,6,99
+G,MSMath,2,Abstract Algebra,MATH 114,Major,6,94
+G,MSMath,2,Probability,MATH 115,Minor,3,96
+G,MSMath,3,Dissertation Writing,ABD 101,Major,6,94
+G,MSMath,3,Research,ABD 102,Major,6,87
+G,MSMath,3,Functional Analysis,MME 150,Minor,3,99
+G,MSMath,3,Real Analysis,MME 151,Minor,3,90
+G,MSMath,3,Modern Geometry,MME 152,Major,6,91

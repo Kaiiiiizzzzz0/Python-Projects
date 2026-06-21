@@ -1,0 +1,9 @@
+Level,Degree,Term,Course Name,Course ID,Course Type,Credit hours,Grade
+G,MSEcon,1,Microecconomics,ECON 104,Major,6,98
+G,MSEcon,1,Human Resources,ABC 112,Minor,3,99
+G,MSEcon,1,Macroeconomics,ECON 105,Major,6,87
+G,MSEcon,1,Research,CAD 101,Major,6,89
+G,MSEcon,2,Econometrics,ECON 107,Major,6,89
+G,MSEcon,2,Development economics,ECON 109,Major,6,91
+G,MSEcon,2,Game Theory,ECON 115,Minor,4,86
+G,MSEcon,2,Statistics,MATH 113,Minor,3,87
